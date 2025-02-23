@@ -16,7 +16,7 @@
 - Java 1.8
 
 ### 개발 도구
-- MariaDB 10.4.6
+- MariaDB 10.6
 - JDK 1.8.0_151
 - eGovFrameDev 3.9.0
 - Apache Tomcat 8.5.87
